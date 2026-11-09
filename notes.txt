@@ -2,4 +2,3 @@
 Git trackes changes in my files
 Each commit saves a checkpoint
 this line was added on a feature branch to notes.txt
-part 7 doing 
